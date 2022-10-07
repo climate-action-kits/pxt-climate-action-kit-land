@@ -36,6 +36,7 @@
   "soil.getMoisture|block": "moisture level at pin $pin",
   "soil.ifMoisture|block": "moisture level at pin $pin is %Mlevel",
   "soil|block": "soil",
+  "touch.getTap|block": "on tap at $pin",
   "touch.getTouch|block": "on touch at $pin",
   "touch|block": "touch",
   "{id:category}CakLand": "CAK:Land",
