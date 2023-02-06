@@ -1,3 +1,4 @@
+```packagecakLand=github:climate-action-kits/pxt-climate-action-kit-land```
 # Plants & Pollinators
 
 ## @showdialog
