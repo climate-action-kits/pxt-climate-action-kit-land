@@ -1,9 +1,11 @@
-```packagecakLand=github:climate-action-kits/pxt-climate-action-kit-land```
 # Plants & Pollinators
 
 ## @showdialog
 Add Climate Action Land Extension from the Extension drawer. 
 On the Extensions page search for Inksmith or Land
+
+##
+```packagecakLand=github:climate-action-kits/pxt-climate-action-kit-land```
 
 ## 
 ```blocks
