@@ -1,6 +1,6 @@
 //% weight=13 color=#ff6700 icon="" block="Soil"
 namespace cakLandSoil {
-  enum Mlevel {
+  export enum Mlevel {
     //% block="Very Wet"
     VERY_WET = 500,
     //% block="Wet"
